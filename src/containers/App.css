@@ -1,0 +1,9 @@
+@font-face {
+  font-family: sega;
+  src: url(SEGA.TTF);
+}
+H1{
+  font-family: sega;
+  color: #0ccac4;
+  font-weight: lighter;
+}
